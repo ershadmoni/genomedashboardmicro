@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn[standard]
+pytest
+httpx
+redis-om
+requests
+starlette
